@@ -67,6 +67,8 @@ Videos here: [UIKonf - YouTube](https://www.youtube.com/user/UIKonf/)
 ## Rich Text, Core Text
 **Rob Napier**
 
+[Slides](https://github.com/rnapier/richtext-coretext/blob/master/Rich%20Text%2C%20Core%20Text%202.pdf)
+
 * Swift has great handling of unicode and therefore emojis.
 * A “code point” maps a number to abstract characters.
 * This is a fundamental unit of language, independent of how it is drawn
