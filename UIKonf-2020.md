@@ -3,6 +3,8 @@ May 18th-19th 2020,
 
 Held remotely using Hopin. A mixture of Youtube live streaming, screen sharing, Zoom and in-browser video calling.
 
+Videos here: [UIKonf - YouTube](https://www.youtube.com/user/UIKonf/)
+
 ## Who can say they have learned Swift?
 **Paul & Sophie Hudson**
 
