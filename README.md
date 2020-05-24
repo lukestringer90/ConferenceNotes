@@ -6,3 +6,4 @@ Notes from conference I have attended.
 - [iOSCon-2017](iOSCon-2017.md)
 - [UIKonf-2018](UIKonf-2018.md)
 - [DDD-North-2020](DDD-North-2020.md)
+- [UIKonf-2020](UIKonf-2020.md)
