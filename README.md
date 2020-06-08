@@ -1,3 +1,9 @@
+> ⚠️ Now Unmaintained ⚠️ 
+
+> I've migrated these conference notes (and all future ones) to my website: [lukestringer.me/conference_notes](lukestringer.me/conference_notes)
+
+--- 
+
 # Conference Notes
 Notes from conferences I have attended.
 
